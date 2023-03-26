@@ -13,7 +13,6 @@
     </message>
     <message>
         <source>Author: Litong Deng, Jiaxin Liu, Yankai Wang, Yimin Zhao</source>
-        <translation>作者：邓立桐，刘家昕，王彦凯，赵屹珉</translation>
     </message>
     <message>
         <source>Compiled using Microsoft Visual Studio 2022 with Winpcap 4.1.2 and Qt 5.14.2.</source>
